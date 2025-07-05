@@ -1,0 +1,3 @@
+[submodule "simnet"]
+	path = simnet
+	url = https://github.com/USTC-ADA/simnet.git
